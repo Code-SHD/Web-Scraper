@@ -1,5 +1,10 @@
-# Web-Scraper
+# Introduce
 
-I made a web scraper with python.
+This is code that scrap information in the Internet.
+This scraper can do many things.
+Such as get stock price in the Internet.
 
-This web scraper automatically collects information on the desired site and saves it in an Excel file.
+#How to use
+
+Download this code and run this code in you workplace.
+Before you run code, you can edit this code for you.
